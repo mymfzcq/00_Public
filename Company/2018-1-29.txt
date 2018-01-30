@@ -9,3 +9,13 @@ http://www.learn.usa.canon.com/resources/articles/2011/high_iso_noise_reduction_
 4.MobaXterm(远程连接工具) v9.4破解版
 http://www.ddooo.com/softdown/102622.htm
 
+5.total command F5刷新
+http://tieba.baidu.com/p/3976790862
+
+6.total command 5个功能
+http://www.guyiren.com/archives/1647
+
+7.source insight支持多标签（多文件）显示方法  
+(1) 首先你得装个avenue SmartIDE插件，rtools里可下，安装咱就不说了，帖子满天飞 
+(2) 菜单栏里点击SmartIDE->Options或者 Alt+Shift+F8， 如下图，选中Enable Tab bar，点OK
+ 插一句，其中 Support multi Lines选中后是显示多有打开的文件标签，不觉得辣眼睛可以一试
