@@ -1,0 +1,8 @@
+1.MFC中App,Doc,MainFrame,View各指针的互相获取
+https://www.cnblogs.com/luzhiyuan/p/3936283.html
+
+2.深度学习笔记(三)：激活函数和损失函数
+http://blog.csdn.net/u014595019/article/details/52562159
+
+3.How can I show a OpenCV image in a dialog of MFC.
+http://answers.opencv.org/question/98487/how-can-i-show-a-opencv-image-in-a-dialog-of-mfc/
