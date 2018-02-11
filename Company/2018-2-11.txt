@@ -1,0 +1,8 @@
+1.N3160cpu
+https://www.chiphell.com/thread-1375448-1-1.html
+
+2.广告屏蔽
+https://adblockplus.org/#
+
+3.uefi主板安装ubuntu
+http://blog.csdn.net/insular_island/article/details/39546227
