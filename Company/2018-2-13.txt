@@ -1,0 +1,2 @@
+1.How can I simulate a button click given the handle to the button's window?(模拟点击按钮消息)
+https://stackoverflow.com/questions/16295677/how-can-i-simulate-a-button-click-given-the-handle-to-the-buttons-window
